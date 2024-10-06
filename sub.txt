@@ -1,5 +1,6 @@
-[
-  {
+{
+  "outbounds": [
+    {
     "type": "vless",
     "tag": "N7721987370 § 0",
     "server": "hajlab.ucdavis.edu",
@@ -1075,9 +1076,10 @@
       "type": "ws",
       "headers": {
         "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v30.drlimitemergency.net"
-      }
-    },
-     "packet_encoding": ""
+        }
+      },
+      "packet_encoding": ""
     }
   ]
 }
+
