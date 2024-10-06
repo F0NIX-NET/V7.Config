@@ -1,0 +1,18 @@
+{
+  "outbounds": [
+    {
+      "type": "vless",
+    "tag": "N7721987370 § 0",
+    "server": "hajlab.ucdavis.edu",
+    "server_port": 80,
+    "uuid": "766949f2-43d4-4797-bf66-b2c0ced9c3bd",
+    "transport": {
+      "type": "ws",
+      "headers": {
+        "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v21.drlimitemergency.net"
+        }
+      },
+      "packet_encoding": ""
+    }
+  ]
+}
