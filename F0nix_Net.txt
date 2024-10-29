@@ -2,7 +2,35 @@
   "outbounds": [
     {
       "type": "vless",
-      "tag": "N2001316755 § 0",
+      "tag": "N9715492671 § 0",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 80,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.TzZLiMitTNeW.CoM"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N6010195063 § 1",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 80,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v10.TzZLiMitTNeW.CoM"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N9119375717 § 2",
       "server": "hajlab.ucdavis.edu",
       "server_port": 443,
       "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
@@ -17,14 +45,14 @@
       "transport": {
         "type": "ws",
         "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitTNeW.NeT"
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.TzZLiMitTNeW.CoM"
         }
       },
       "packet_encoding": ""
     },
     {
       "type": "vless",
-      "tag": "N6802792618 § 1",
+      "tag": "N6802792618 § 3",
       "server": "hajlab.ucdavis.edu",
       "server_port": 443,
       "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
@@ -46,7 +74,7 @@
     },
     {
       "type": "vless",
-      "tag": "N6203411024 § 2",
+      "tag": "N2001316755 § 4",
       "server": "hajlab.ucdavis.edu",
       "server_port": 443,
       "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
@@ -61,91 +89,17 @@
       "transport": {
         "type": "ws",
         "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.TzZLiMitTNeW.NeT"
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitTNeW.NeT"
         }
       },
       "packet_encoding": ""
     },
     {
       "type": "vless",
-      "tag": "N5004207320 § 3",
+      "tag": "N7407491504 § 5",
       "server": "hajlab.ucdavis.edu",
-      "server_port": 443,
+      "server_port": 80,
       "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "tls": {
-        "enabled": true,
-        "server_name": "hajlab.ucdavis.edu",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitTNeW.NeT"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N3605970818 § 4",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 443,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "tls": {
-        "enabled": true,
-        "server_name": "hajlab.ucdavis.edu",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.TzZLiMitTNeW.NeT"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N1506465886 § 5",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 443,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "tls": {
-        "enabled": true,
-        "server_name": "hajlab.ucdavis.edu",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.TzZLiMitTNeW.CoM"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N5007983226 § 6",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 443,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "tls": {
-        "enabled": true,
-        "server_name": "hajlab.ucdavis.edu",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
       "transport": {
         "type": "ws",
         "headers": {
@@ -156,7 +110,93 @@
     },
     {
       "type": "vless",
-      "tag": "N8908834915 § 7",
+      "tag": "N5613582080 § 6",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 443,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "tls": {
+        "enabled": true,
+        "server_name": "hajlab.ucdavis.edu",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.TzZLiMitTNeW.CoM"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N9018179171 § 7",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 443,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "tls": {
+        "enabled": true,
+        "server_name": "hajlab.ucdavis.edu",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v18.TzZLiMitTNeW.CoM"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N7913925319 § 8",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 80,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.TzZLiMitTNeW.CoM"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N9912922899 § 9",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 80,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.TzZLiMitTNeW.CoM"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N3605928897 § 10",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 80,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.TzZLiMitTNeW.NeT"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N8908834915 § 11",
       "server": "hajlab.ucdavis.edu",
       "server_port": 443,
       "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
@@ -178,73 +218,7 @@
     },
     {
       "type": "vless",
-      "tag": "N8109852001 § 8",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 443,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "tls": {
-        "enabled": true,
-        "server_name": "hajlab.ucdavis.edu",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v09.TzZLiMitTNeW.CoM"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N3910235983 § 9",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 443,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "tls": {
-        "enabled": true,
-        "server_name": "hajlab.ucdavis.edu",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v10.TzZLiMitTNeW.CoM"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N8211342216 § 10",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 443,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "tls": {
-        "enabled": true,
-        "server_name": "hajlab.ucdavis.edu",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitTNeW.CoM"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N6112253590 § 11",
+      "tag": "N6112253590 § 12",
       "server": "hajlab.ucdavis.edu",
       "server_port": 443,
       "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
@@ -260,28 +234,6 @@
         "type": "ws",
         "headers": {
           "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.TzZLiMitTNeW.CoM"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N5613582080 § 12",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 443,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "tls": {
-        "enabled": true,
-        "server_name": "hajlab.ucdavis.edu",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.TzZLiMitTNeW.CoM"
         }
       },
       "packet_encoding": ""
@@ -310,7 +262,51 @@
     },
     {
       "type": "vless",
-      "tag": "N2215695395 § 14",
+      "tag": "N3605970818 § 14",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 443,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "tls": {
+        "enabled": true,
+        "server_name": "hajlab.ucdavis.edu",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.TzZLiMitTNeW.NeT"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N5004207320 § 15",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 443,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "tls": {
+        "enabled": true,
+        "server_name": "hajlab.ucdavis.edu",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitTNeW.NeT"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N2215695395 § 16",
       "server": "hajlab.ucdavis.edu",
       "server_port": 443,
       "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
@@ -332,7 +328,21 @@
     },
     {
       "type": "vless",
-      "tag": "N8416119473 § 15",
+      "tag": "N4506833305 § 17",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 80,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.TzZLiMitTNeW.CoM"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N8416119473 § 18",
       "server": "hajlab.ucdavis.edu",
       "server_port": 443,
       "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
@@ -354,7 +364,165 @@
     },
     {
       "type": "vless",
-      "tag": "N4017616951 § 16",
+      "tag": "N4308566095 § 19",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 80,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v08.TzZLiMitTNeW.CoM"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N4404918779 § 20",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 80,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitTNeW.NeT"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N8714964316 § 21",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 80,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v14.TzZLiMitTNeW.CoM"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N6019102194 § 22",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 80,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.TzZLiMitTNeW.CoM"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N8109852001 § 23",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 443,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "tls": {
+        "enabled": true,
+        "server_name": "hajlab.ucdavis.edu",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v09.TzZLiMitTNeW.CoM"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N8211342216 § 24",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 443,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "tls": {
+        "enabled": true,
+        "server_name": "hajlab.ucdavis.edu",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitTNeW.CoM"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N5301847185 § 25",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 80,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitTNeW.NeT"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N6203411024 § 26",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 443,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "tls": {
+        "enabled": true,
+        "server_name": "hajlab.ucdavis.edu",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.TzZLiMitTNeW.NeT"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N1506465886 § 27",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 443,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "tls": {
+        "enabled": true,
+        "server_name": "hajlab.ucdavis.edu",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.TzZLiMitTNeW.CoM"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N4017616951 § 28",
       "server": "hajlab.ucdavis.edu",
       "server_port": 443,
       "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
@@ -376,101 +544,7 @@
     },
     {
       "type": "vless",
-      "tag": "N9018179171 § 17",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 443,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "tls": {
-        "enabled": true,
-        "server_name": "hajlab.ucdavis.edu",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v18.TzZLiMitTNeW.CoM"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N9119375717 § 18",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 443,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "tls": {
-        "enabled": true,
-        "server_name": "hajlab.ucdavis.edu",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.TzZLiMitTNeW.CoM"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N7420256033 § 19",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 443,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "tls": {
-        "enabled": true,
-        "server_name": "hajlab.ucdavis.edu",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v20.TzZLiMitTNeW.CoM"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N5301847185 § 20",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 80,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitTNeW.NeT"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N6502463571 § 21",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 80,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.TzZLiMitTNeW.NeT"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N6503876928 § 22",
+      "tag": "N6503876928 § 29",
       "server": "hajlab.ucdavis.edu",
       "server_port": 80,
       "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
@@ -484,77 +558,7 @@
     },
     {
       "type": "vless",
-      "tag": "N4404918779 § 23",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 80,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitTNeW.NeT"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N3605928897 § 24",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 80,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.TzZLiMitTNeW.NeT"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N4506833305 § 25",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 80,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.TzZLiMitTNeW.CoM"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N7407491504 § 26",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 80,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v07.TzZLiMitTNeW.CoM"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N4308566095 § 27",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 80,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v08.TzZLiMitTNeW.CoM"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N8009362290 § 28",
+      "tag": "N8009362290 § 30",
       "server": "hajlab.ucdavis.edu",
       "server_port": 80,
       "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
@@ -568,56 +572,28 @@
     },
     {
       "type": "vless",
-      "tag": "N6010195063 § 29",
+      "tag": "N4117805049 § 31",
       "server": "hajlab.ucdavis.edu",
       "server_port": 80,
       "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
       "transport": {
         "type": "ws",
         "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v10.TzZLiMitTNeW.CoM"
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitTNeW.CoM"
         }
       },
       "packet_encoding": ""
     },
     {
       "type": "vless",
-      "tag": "N7913925319 § 30",
+      "tag": "N9316288507 § 32",
       "server": "hajlab.ucdavis.edu",
       "server_port": 80,
       "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
       "transport": {
         "type": "ws",
         "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.TzZLiMitTNeW.CoM"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N8714964316 § 31",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 80,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v14.TzZLiMitTNeW.CoM"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N9715492671 § 32",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 80,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.TzZLiMitTNeW.CoM"
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v16.TzZLiMitTNeW.CoM"
         }
       },
       "packet_encoding": ""
@@ -638,7 +614,43 @@
     },
     {
       "type": "vless",
-      "tag": "N8011435952 § 34",
+      "tag": "N6502463571 § 34",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 80,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.TzZLiMitTNeW.NeT"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N7420256033 § 35",
+      "server": "hajlab.ucdavis.edu",
+      "server_port": 443,
+      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "tls": {
+        "enabled": true,
+        "server_name": "hajlab.ucdavis.edu",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v20.TzZLiMitTNeW.CoM"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "N8011435952 § 36",
       "server": "hajlab.ucdavis.edu",
       "server_port": 80,
       "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
@@ -646,34 +658,6 @@
         "type": "ws",
         "headers": {
           "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitTNeW.CoM"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N9912922899 § 35",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 80,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.TzZLiMitTNeW.CoM"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "N9316288507 § 36",
-      "server": "hajlab.ucdavis.edu",
-      "server_port": 80,
-      "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v16.TzZLiMitTNeW.CoM"
         }
       },
       "packet_encoding": ""
@@ -694,28 +678,44 @@
     },
     {
       "type": "vless",
-      "tag": "N4117805049 § 38",
+      "tag": "N3910235983 § 38",
       "server": "hajlab.ucdavis.edu",
-      "server_port": 80,
+      "server_port": 443,
       "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "tls": {
+        "enabled": true,
+        "server_name": "hajlab.ucdavis.edu",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
       "transport": {
         "type": "ws",
         "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitTNeW.CoM"
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v10.TzZLiMitTNeW.CoM"
         }
       },
       "packet_encoding": ""
     },
     {
       "type": "vless",
-      "tag": "N6019102194 § 39",
+      "tag": "N5007983226 § 39",
       "server": "hajlab.ucdavis.edu",
-      "server_port": 80,
+      "server_port": 443,
       "uuid": "3892bbba-bc4d-4c7d-b0b9-35cfeae6cae7",
+      "tls": {
+        "enabled": true,
+        "server_name": "hajlab.ucdavis.edu",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
       "transport": {
         "type": "ws",
         "headers": {
-          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.TzZLiMitTNeW.CoM"
+          "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v07.TzZLiMitTNeW.CoM"
         }
       },
       "packet_encoding": ""
